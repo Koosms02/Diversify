@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1055781017",
+    "project_id": "diversify-6f6cc",
+    "storage_bucket": "diversify-6f6cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055781017:android:197cd2a23c20f3f12b8808",
+        "android_client_info": {
+          "package_name": "host.exp.exponent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1055781017-1u7l7hjqr8aot6a8rn7lnkp51fme49h0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "host.exp.exponent",
+            "certificate_hash": "97bbe4bcc2a24d240c2e9046a183b05e4b1faa3a"
+          }
+        },
+        {
+          "client_id": "1055781017-0f3780jbvntso1qe35mkq4216nk82dio.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEpQaKQPIFtlynTdsTsBsTj3IgxGgo6GI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1055781017-0f3780jbvntso1qe35mkq4216nk82dio.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
